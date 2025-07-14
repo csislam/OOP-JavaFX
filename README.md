@@ -169,7 +169,7 @@ This project could be extended into:
 📊 Performance measurement (steps, memory use)
 
 👨‍💻 Contributors
-Your Name - @yourGitHub - Initial implementation
+Your Name - @csislam - Initial implementation
 
 Feel free to fork this repo and add new types of automata!
 
